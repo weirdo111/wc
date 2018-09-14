@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536678662 source:d:\广工\大三\新建文件夹\wordcount\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536929562 source:d:\广工\大三\上学期\wordcount\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536934657 source:d:\wordcount\main.c
+	<stdio.h>
+	<stdlib.h>
+
